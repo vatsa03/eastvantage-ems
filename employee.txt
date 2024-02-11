@@ -1,0 +1,12 @@
+{
+    "departments": {
+        "MTO": [
+            {
+                "name": "Kush",
+                "emp_id": "1",
+                "title": "sde",
+                "department": "MTO"
+            }
+        ]
+    }
+}
